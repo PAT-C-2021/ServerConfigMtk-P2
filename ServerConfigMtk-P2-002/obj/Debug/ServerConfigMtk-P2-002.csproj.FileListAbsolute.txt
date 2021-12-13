@@ -1,0 +1,10 @@
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\ServerConfigMtk-P2-002.exe.config
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\ServerConfigMtk-P2-002.exe
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\ServerConfigMtk-P2-002.pdb
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\patnew2.dll
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\patnew2.pdb
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\bin\Debug\patnew2.dll.config
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\obj\Debug\ServerConfigMtk-P2-002.csproj.CopyComplete
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\obj\Debug\ServerConfigMtk-P2-002.exe
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\obj\Debug\ServerConfigMtk-P2-002.pdb
+D:\semester 5 PAT\ServerConfigMtk-P2-002\ServerConfigMtk-P2-002\obj\Debug\ServerConfigMtk-P2-002.csprojAssemblyReference.cache
